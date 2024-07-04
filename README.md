@@ -1,3 +1,8 @@
+que buena version la 444, una loruca, literal: "una locura"...
+¿que yo que dije?
+
+ahhh sii, bienvenidos al Monkey Python IA Coddebuged Circus BY Alan5rg.systemas
+
 HOla Hla... readme.
 #control de versionado personal. mas detalles en cada archivo .py
 #040724.v444 se itera sobre una lista de fuentes de sonido para crear los paneles de volumen de cada uno de ellos.
