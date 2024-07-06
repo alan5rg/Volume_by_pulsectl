@@ -1,7 +1,8 @@
 que buena version la 444, una loruca, literal: "una locura"...
 ¿que yo que dije?
 
-si la 444 era buena la 445 es mejor y más linda!
+si la 444 era buena la 445 es mejor y más linda!!!
+pero pero... la 448 la rompió toda y queda reformateo, debugeo y depurado del código
 
 ahhh sii, bienvenidos al Monkey Python IA Coddebuged Circus BY Alan5rg.systemas
 
