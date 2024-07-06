@@ -17,7 +17,7 @@ ahhh sii, bienvenidos al Monkey Python IA Coddebuged Circus BY Alan5rg.systemas
 
 HOla Hla... readme.
 #060724.v448 se implementa otra forma no ortodoxa de vincular los cambios del canal seleccionable con los canales individuales
-#            que corresponda y viceversa.  depurar +++ codigo!
+#que corresponda y viceversa, tanto en el volumen de diales y slides como de botones de silencio y aspectos visuales.  depurar +++ codigo!
 #050724.v446 se implementa forma no ortodoxa de redibujar la ui ante cambios en la cantidad de fuentes de audio.
 #050724.v445 se implementa hoja de estilos para crear diales y sliders de forma personalida y minimalista.
 #050724.v445 se ajustan textos de botones ui en funcion de los estados y se implementa una barra de menu.
